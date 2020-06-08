@@ -1,2 +1,4 @@
-# admin-panel-finder
-websayt admin panel finder
+admin-panel-finder
+==================
+
+A Python Script to find admin panel of a site
